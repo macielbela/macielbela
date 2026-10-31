@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=13&duration=1&pause=999999&color=B68BFA&center=true&vCenter=true&width=350&lines=✧+a+little+bit+about+myself+✧" alt="a little bit about myself" />
+  <strong>✧ a little bit about myself ✧</strong>
 </p>
 
 <p align="center">
