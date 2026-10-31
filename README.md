@@ -18,97 +18,173 @@
 </div>
 
 
+
 <div align="center">
+
+  <img src="./assets/nyan-cat.gif" width="100%" alt="nyan cat">
+
   <br>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/ABOUT_ME-ffc6df?style=for-the-badge&labelColor=ffc6df&color=ffc6df" />
-        <br><br>
-        <b>✧ a little about me ✧</b>
-        <br><br>
-        brazilian student from IFC
-        <br>
-        internet computing
-        <br>
-        learning & creating things
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/STATUS-9de3f5?style=for-the-badge&labelColor=9de3f5&color=9de3f5" />
-        <br><br>
-        <b>currently...</b>
-        <br><br>
-        studying programming
-        <br>
-        exploring web development
-        <br>
-        learning JavaScript
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hi%2C+i'm+isabela!" alt="hi, i'm isabela!">
+
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9C%A7+welcome+to+my+little+corner+%E2%9C%A7" />
-</div>
----
-<div align="center">
-  <h3>✧ my little toolbox ✧</h3>
-  <sub>things i'm learning and exploring</sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff66c4,25:ffcc4d,50:64d9ff,75:aa88ff,100:ff66c4&height=3&section=header" width="80%">
+
+  <br>
+
+  <samp>✦ welcome to my little corner of the internet ✦</samp>
+  <br>
+  <samp>student • beginner developer • creative mind</samp>
+
   <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
-  <br><br>
-  <img src="https://img.shields.io/badge/HTML5-ffc6df?style=flat-square&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-b9dfff?style=flat-square&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-fff0a8?style=flat-square&logo=javascript&logoColor=black" />
+
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90" alt="pixel cat">
+
 </div>
+
 ---
+
 <div align="center">
-  <h3>✧ little projects ✧</h3>
-  <sub>some things i've worked on</sub>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=2000&color=64D9FF&center=true&vCenter=true&width=400&lines=%5B+SYSTEM+PROFILE+%5D" alt="system profile">
+
 </div>
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>BEWELL</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/well--being-ffc6df?style=flat-square" />
-      <br><br>
-      a group project about physical and mental well-being. i contributed to its organization, visual structure and informational content.
-      <br><br>
-      <a href="https://github.com/juliokubiack/Exercicios_fisicos_e_bem_estar_fisico_mental">♡ explore project</a>
-    </td>
-    <td width="50%" align="center">
-      <b>MORE COMING SOON...</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/work%20in%20progress-b9dfff?style=flat-square" />
-      <br><br>
-      this little corner will grow as i learn, experiment and create new projects.
-    </td>
-  </tr>
+
+<table align="center">
+<tr>
+<td width="65%" valign="top">
+
+### [ USER PROFILE ]
+
+```txt
+NAME      : Isabela
+LOCATION  : Brazil
+STATUS    : Learning & creating
+SCHOOL    : IFC
+COURSE    : Internet Computing
+```
+
+hi! i'm isabela, a brazilian student currently studying internet computing at IFC.
+
+i'm exploring programming, web development and creative ways to bring ideas to life.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="retro computer">
+
+<samp>ONLINE</samp>
+
+<samp>◉ currently learning</samp>
+
+</td>
+</tr>
 </table>
+
 ---
+
 <div align="center">
-  <h3>✧ my github universe ✧</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=macielbela&show_icons=true&hide_border=true&bg_color=11111b&title_color=ffc6df&icon_color=9de3f5&text_color=ffffff" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=2000&color=FF66C4&center=true&vCenter=true&width=400&lines=%5B+SKILL+LOADING...+%5D" alt="skills loading">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**01 / CURRENTLY LEARNING**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript">
+
+</td>
+<td align="center" width="50%">
+
+**02 / INTERESTS**
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="pixel computer">
+
+<samp>web development</samp>
+
+<samp>creative projects</samp>
+
+<samp>programming</samp>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=2000&color=FFCC4D&center=true&vCenter=true&width=400&lines=%5B+PROJECT+ARCHIVE+%5D" alt="project archive">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%" valign="top">
+
+### [ PROJECT_001 ] — BEWELL
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="pixel stars">
+
+**a project about well-being**
+
+a team project focused on physical and mental well-being.
+
+my contributions included helping with the organization, structure and visual/informational content, especially the exercise page.
+
+<br>
+
+<a href="https://github.com/juliokubiack/Exercicios_fisicos_e_bem_estar_fisico_mental">[ OPEN PROJECT REPOSITORY ]</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=2000&color=AA88FF&center=true&vCenter=true&width=400&lines=%5B+NOW+PLAYING...+%5D" alt="now playing">
+
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielbela&layout=compact&hide_border=true&bg_color=11111b&title_color=ffc6df&text_color=ffffff" />
+
+  <samp>music changes, creativity stays.</samp>
+
+  <br><br>
+
+  **CURRENTLY LISTENING TO**
+
+  <br>
+
+  <samp>♫ add your song here ♫</samp>
+
 </div>
+
 ---
+
 <div align="center">
-  <h3>✧ music corner ✧</h3>
-  <sub>a little soundtrack for this corner of the internet</sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff66c4,25:ffcc4d,50:64d9ff,75:aa88ff,100:ff66c4&height=3&section=footer" width="80%">
+
   <br><br>
-  ♡ currently on repeat: add your song here ♡
+
+  <samp>thanks for visiting my little corner of the internet!</samp>
+
+  <br>
+
+  <samp>✦ stay curious. keep creating. ✦</samp>
+
   <br><br>
-  <h3>✧ contribution galaxy ✧</h3>
-  <img src="https://raw.githubusercontent.com/macielbela/macielbela/main/output/github-snake.svg" />
-  <br><br>
-  <sub>thanks for visiting my little corner of the internet!</sub>
-</div>o/badge/💻-web%20development-dcc6f2?style=flat-square">
-  <img src="https://img.shields.io/badge/🌱-learning%20javascript-c6ddf5?style=flat-square">
+
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100" alt="retro pixel computer">
+
+  <br>
+
+  <sub>made with curiosity & a little bit of nostalgia</sub>
+
 </div>
----
-### ♡ about me
-- studying internet computing at IFC
-- learning javascript and web development
-- interested in technology and creative projects
-- always curious to learn something new
