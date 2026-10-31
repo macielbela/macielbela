@@ -21,37 +21,43 @@
 <!-- ABOUT ME -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,16&height=3&section=header" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=3&section=header" width="65%">
 </p>
 
-<h2 align="center">✦ about me ✦</h2>
+<h2 align="center">✦ a little about me ✦</h2>
 
 <p align="center">
-  brazilian student · internet systems development · IFC
-</p>
-
-<p align="center">
-  i'm isabela! i'm interested in technology, web development
-  and the creative side of programming.
-  <br>
-  i enjoy learning new things, experimenting with ideas
-  and turning them into projects.
+  <i>somewhere between code, creativity and the internet.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=2&section=header" width="55%">
+  hi! i'm isabela, a brazilian student at IFC,
+  studying internet systems development.
+  <br><br>
+  i'm curious about how things work behind the screen
+  and how a simple idea can turn into something interactive.
+  <br><br>
+  i like exploring web development, learning through projects
+  and adding a little creativity to everything i build.
+</p>
+
+<p align="center">
+  <sub>currently figuring things out, one line of code at a time.</sub>
 </p>
 
 <br>
 
 <!-- INTERESTS -->
 
-<h2 align="center">✦ things i like ✦</h2>
+<h2 align="center">✦ things i enjoy ✦</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=38&section=header&text=WEB%20DEVELOPMENT&fontSize=15&fontColor=ffffff" width="31%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=38&section=header&text=CREATIVE%20CODING&fontSize=15&fontColor=ffffff" width="31%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=38&section=header&text=TECHNOLOGY&fontSize=15&fontColor=ffffff" width="31%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=36&section=header&text=web%20development&fontSize=15&fontColor=ffffff" width="43%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8871d9&height=36&section=header&text=creative%20coding&fontSize=15&fontColor=ffffff" width="43%">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=36&section=header&text=technology&fontSize=15&fontColor=ffffff" width="43%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=c17ce8&height=36&section=header&text=digital%20design&fontSize=15&fontColor=ffffff" width="43%">
 </p>
 
 <br>
@@ -61,29 +67,31 @@
 <h2 align="center">✦ currently learning ✦</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b6bd6&height=38&section=header&text=JAVASCRIPT&fontSize=15&fontColor=ffffff" width="30%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=38&section=header&text=PROGRAMMING%20LOGIC&fontSize=15&fontColor=ffffff" width="30%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=38&section=header&text=WEB%20DEVELOPMENT&fontSize=15&fontColor=ffffff" width="30%">
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="48">
+</p>
+
+<p align="center">
+  <sub>javascript · html · css</sub>
 </p>
 
 <br>
 
 <!-- PROJECTS -->
 
+<h2 align="center">✦ little things i've built ✦</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=45&section=header&text=PROJECT%20ARCHIVE&fontSize=19&fontColor=ffffff" width="75%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=38&section=header&text=01%20%2F%20BEWELL&fontSize=17&fontColor=ffffff" width="58%">
 </p>
 
 <p align="center">
-  <b>01 — BEWELL</b>
-  <br>
-  a collaborative school project focused on physical and mental well-being.
-  <br>
-  my contribution involved organizing content and working on the
-  visual and informational structure, including the exercise page.
+  a collaborative school project about physical and mental well-being.
+  <br><br>
+  i contributed to organizing the content and its visual
+  and informational structure, including the exercise page.
   <br><br>
   <a href="https://github.com/juliokubiack/Exercicios_fisicos_e_bem_estar_fisico_mental">
-    explore the project →
+    explore bewell →
   </a>
 </p>
 
@@ -91,12 +99,14 @@
 
 <!-- MUSIC -->
 
+<h2 align="center">✦ now playing ✦</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=45&section=header&text=NOW%20PLAYING&fontSize=19&fontColor=ffffff" width="65%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=38&section=header&text=music%20corner&fontSize=16&fontColor=ffffff" width="48%">
 </p>
 
 <p align="center">
-  ♪ currently listening to:
+  ♪ currently listening to...
   <br>
   <b>your song here</b>
 </p>
@@ -105,23 +115,22 @@
 
 <!-- PORTUGUÊS -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=45&section=header&text=VERS%C3%83O%20EM%20PORTUGU%C3%8AS&fontSize=17&fontColor=ffffff" width="75%">
-</p>
+<h2 align="center">✦ versão em português ✦</h2>
 
 <p align="center">
-  <b>oi, eu sou a isabela!</b>
+  oi! sou a isabela, estudante de informática para internet no IFC.
   <br><br>
-  sou estudante de informática para internet no IFC, no brasil.
-  tenho interesse em tecnologia, desenvolvimento web e no lado
-  criativo da programação. gosto de aprender coisas novas,
-  experimentar ideias e transformá-las em projetos.
+  gosto de descobrir como as coisas funcionam por trás das telas
+  e de transformar ideias em projetos interativos.
+  <br><br>
+  tenho interesse em desenvolvimento web, tecnologia
+  e no lado criativo da programação.
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,16&height=3&section=header" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=3&section=header" width="65%">
   <br><br>
-  <sub>made with curiosity, code & a little bit of nostalgia.</sub>
+  ✦ <sub>made with curiosity, code & a little nostalgia.</sub> ✦
 </p>
