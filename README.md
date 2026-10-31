@@ -17,16 +17,13 @@
 
 </div>
 
-
 <!-- ABOUT ME -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=3000&pause=1000&color=FF83C9&center=true&vCenter=true&width=500&lines=ABOUT+ME+%E2%9C%A6" alt="about me">
 </h2>
 
-<p align="center">
-  <i>a little corner of the internet, made by me.</i>
-</p>
+<p align="center"><i>a little corner of the internet, made by me.</i></p>
 
 <p align="center">
   hi! i'm isabela, a brazilian student studying
@@ -45,9 +42,7 @@
   to keep track of that journey.
 </p>
 
-<p align="center">
-  <sub>✦ currently growing, one project at a time ✦</sub>
-</p>
+<p align="center"><sub>✦ currently growing, one project at a time ✦</sub></p>
 
 <br>
 
@@ -58,24 +53,52 @@
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF75B5&height=42&section=header&text=MUSIC&fontSize=16&fontColor=ffffff" width="27%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7BDB&height=42&section=header&text=ANIME&fontSize=16&fontColor=ffffff" width="27%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=55BDE8&height=42&section=header&text=TECH&fontSize=16&fontColor=ffffff" width="27%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF5DA2&height=38&section=header&text=MUSIC&fontSize=15&fontColor=ffffff" width="25%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9872E8&height=38&section=header&text=ANIME&fontSize=15&fontColor=ffffff" width="25%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=42BFE8&height=38&section=header&text=CREATIVITY&fontSize=15&fontColor=ffffff" width="25%">
 </p>
 
 <p align="center">
-  music is a big part of my everyday life. i enjoy alternative rock,
-  pop punk and discovering songs that feel like they belong in another era.
+  <b>♫ MUSIC & ARTISTS</b>
 </p>
 
 <p align="center">
-  i also love romance anime, memorable characters and stories
-  that make me get attached to fictional people.
+  alternative rock, pop punk, nostalgic pop and songs
+  that feel like they belong in another era.
 </p>
 
 <p align="center">
-  and, of course, anything involving the internet, creative projects,
-  digital aesthetics and technology.
+  <b>some artists i enjoy:</b>
+  <br>
+  weezer · green day · paramore · oasis · blur · panic! at the disco · red hot chili peppers
+</p>
+
+<br>
+
+<p align="center">
+  <b>♡ ANIME & STORIES</b>
+</p>
+
+<p align="center">
+  romance anime, memorable characters, sweet relationships
+  and stories that make me emotionally attached to fictional people.
+</p>
+
+<p align="center">
+  <b>favorites:</b>
+  <br>
+  tomo-chan is a girl! · you and i are polar opposites · horimiya
+</p>
+
+<br>
+
+<p align="center">
+  <b>✧ OTHER LITTLE INTERESTS</b>
+</p>
+
+<p align="center">
+  internet nostalgia · pixel aesthetics · digital design
+  · cute websites · creative projects · discovering new things
 </p>
 
 <br>
@@ -87,7 +110,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="55">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="58">
 </p>
 
 <p align="center">
@@ -108,7 +131,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B7BDB&height=42&section=header&text=01+%2F+BEWELL&fontSize=16&fontColor=ffffff" width="48%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9872E8&height=42&section=header&text=01+%2F+BEWELL&fontSize=16&fontColor=ffffff" width="48%">
 </p>
 
 <p align="center">
@@ -135,7 +158,7 @@
 </h2>
 
 <p align="center">
-  ♪ a little soundtrack for my corner of the internet
+  ♬ currently listening to...
   <br><br>
   <b>your song here</b>
 </p>
@@ -143,5 +166,5 @@
 <br>
 
 <p align="center">
-  ✦　thanks for visiting my little corner of the internet　✦
+  ✦ thanks for visiting my little corner of the internet ✦
 </p>
