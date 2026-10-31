@@ -21,12 +21,7 @@
 
 <div align="center">
 
-  
-  <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff66c4,25:ffcc4d,50:64d9ff,75:aa88ff,100:ff66c4&height=3&section=header" width="80%">
-
-  <br>
 
   <samp>✦ welcome to my little corner of the internet ✦</samp>
   <br>
