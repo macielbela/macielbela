@@ -21,12 +21,7 @@
 
 <div align="center">
 
-  <img src="./assets/nyan-cat.gif" width="100%" alt="nyan cat">
-
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hi%2C+i'm+isabela!" alt="hi, i'm isabela!">
-
+  
   <br>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff66c4,25:ffcc4d,50:64d9ff,75:aa88ff,100:ff66c4&height=3&section=header" width="80%">
