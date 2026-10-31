@@ -18,180 +18,110 @@
 </div>
 
 
-<!-- MAIN PROFILE CONTENT -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#ff69b4" height="8"></td>
-<td bgcolor="#ff4444"></td>
-<td bgcolor="#ff9d35"></td>
-<td bgcolor="#ffe45c"></td>
-<td bgcolor="#75df8a"></td>
-<td bgcolor="#55c9ed"></td>
-<td bgcolor="#a88aff"></td>
-</tr>
-</table>
-
-<br>
-
 <!-- ABOUT ME -->
 
-<table width="100%" border="1" bordercolor="#a88aff" cellspacing="0" cellpadding="12">
-<tr>
-<td bgcolor="#282044">
-<font color="#ff8bd1"><b>★ ABOUT_ME.EXE</b></font>
-<font color="#b9b0d9">　[ profile window ]</font>
-</td>
-</tr>
-<tr>
-<td bgcolor="#100e20">
-<font color="#ffffff">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,16&height=3&section=header" width="85%">
+</p>
 
-### hello, world!
+<h2 align="center">✦ about me ✦</h2>
 
-i'm isabela, a brazilian student studying **internet systems development** at IFC.
+<p align="center">
+  brazilian student · internet systems development · IFC
+</p>
 
-i'm interested in technology, web development and the creative side of programming. i enjoy learning new things, experimenting with ideas and turning them into projects.
+<p align="center">
+  i'm isabela! i'm interested in technology, web development
+  and the creative side of programming.
+  <br>
+  i enjoy learning new things, experimenting with ideas
+  and turning them into projects.
+</p>
 
-<font color="#ff8bd1">currently exploring:</font> web development, programming and creative projects.
-
-</font>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=2&section=header" width="55%">
+</p>
 
 <br>
 
-<!-- INTERESTS + LEARNING -->
+<!-- INTERESTS -->
 
-<table width="100%" border="0" cellspacing="8" cellpadding="12">
-<tr>
-<td width="50%" bgcolor="#3b193c" valign="top">
-<font color="#ff83c9"><b>★ INTERESTS</b></font>
-<hr color="#ff83c9">
-<font color="#ffffff">
-<br>
-web development<br>
-creative coding<br>
-technology<br>
-digital design<br>
-learning new things
-<br><br>
-</font>
-</td>
+<h2 align="center">✦ things i like ✦</h2>
 
-<td width="50%" bgcolor="#15364b" valign="top">
-<font color="#63d9ff"><b>★ CURRENTLY LEARNING</b></font>
-<hr color="#63d9ff">
-<font color="#ffffff">
-<br>
-javascript<br>
-programming logic<br>
-web development<br>
-building projects<br>
-<br><br>
-</font>
-</td>
-</tr>
-</table>
-
-<!-- PROJECT ARCHIVE -->
-
-<table width="100%" border="1" bordercolor="#ffe45c" cellspacing="0" cellpadding="12">
-<tr>
-<td bgcolor="#453719">
-<font color="#ffe45c"><b>★ PROJECT_ARCHIVE</b></font>
-<font color="#d9c99a">　[ selected work ]</font>
-</td>
-</tr>
-<tr>
-<td bgcolor="#171426">
-<font color="#ffffff">
-
-<font color="#ff9d35"><b>01. BEWELL</b></font>
-
-a team project developed as part of an integrative school project, focused on physical and mental well-being.
-
-my contribution involved organizing content and working on the visual and informational structure, including the exercise page.
-
-<br>
-<a href="https://github.com/juliokubiack/Exercicios_fisicos_e_bem_estar_fisico_mental">
-<font color="#ffe45c">→ explore the project on github</font>
-</a>
-
-</font>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=38&section=header&text=WEB%20DEVELOPMENT&fontSize=15&fontColor=ffffff" width="31%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=38&section=header&text=CREATIVE%20CODING&fontSize=15&fontColor=ffffff" width="31%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=38&section=header&text=TECHNOLOGY&fontSize=15&fontColor=ffffff" width="31%">
+</p>
 
 <br>
 
-<!-- NOW PLAYING -->
+<!-- LEARNING -->
 
-<table width="100%" border="1" bordercolor="#75df8a" cellspacing="0" cellpadding="12">
-<tr>
-<td bgcolor="#193d32">
-<font color="#75df8a"><b>★ NOW_PLAYING</b></font>
-<font color="#b5d8c5">　[ music corner ]</font>
-</td>
-</tr>
-<tr>
-<td bgcolor="#101e1c">
-<font color="#ffffff">
-currently listening to:
+<h2 align="center">✦ currently learning ✦</h2>
 
-<font color="#75df8a">your song here</font>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b6bd6&height=38&section=header&text=JAVASCRIPT&fontSize=15&fontColor=ffffff" width="30%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=38&section=header&text=PROGRAMMING%20LOGIC&fontSize=15&fontColor=ffffff" width="30%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=38&section=header&text=WEB%20DEVELOPMENT&fontSize=15&fontColor=ffffff" width="30%">
+</p>
 
-<font color="#a9a9bd">♪ a little soundtrack for my coding sessions.</font>
-</font>
-</td>
-</tr>
-</table>
+<br>
+
+<!-- PROJECTS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff75b5&height=45&section=header&text=PROJECT%20ARCHIVE&fontSize=19&fontColor=ffffff" width="75%">
+</p>
+
+<p align="center">
+  <b>01 — BEWELL</b>
+  <br>
+  a collaborative school project focused on physical and mental well-being.
+  <br>
+  my contribution involved organizing content and working on the
+  visual and informational structure, including the exercise page.
+  <br><br>
+  <a href="https://github.com/juliokubiack/Exercicios_fisicos_e_bem_estar_fisico_mental">
+    explore the project →
+  </a>
+</p>
+
+<br>
+
+<!-- MUSIC -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b7bdb&height=45&section=header&text=NOW%20PLAYING&fontSize=19&fontColor=ffffff" width="65%">
+</p>
+
+<p align="center">
+  ♪ currently listening to:
+  <br>
+  <b>your song here</b>
+</p>
 
 <br>
 
 <!-- PORTUGUÊS -->
 
-<table width="100%" border="1" bordercolor="#55c9ed" cellspacing="0" cellpadding="12">
-<tr>
-<td bgcolor="#18384a">
-<font color="#63d9ff"><b>★ SOBRE_MIM.EXE</b></font>
-<font color="#b5d9e8">　[ versão em português ]</font>
-</td>
-</tr>
-<tr>
-<td bgcolor="#100e20">
-<font color="#ffffff">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55bde8&height=45&section=header&text=VERS%C3%83O%20EM%20PORTUGU%C3%8AS&fontSize=17&fontColor=ffffff" width="75%">
+</p>
 
-### oi, mundo!
-
-sou a isabela, estudante de **informática para internet** no IFC, no brasil.
-
-tenho interesse em tecnologia, desenvolvimento web e no lado criativo da programação. gosto de aprender coisas novas, experimentar ideias e transformá-las em projetos.
-
-<font color="#63d9ff">explorando atualmente:</font> desenvolvimento web, programação e projetos criativos.
-
-</font>
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>oi, eu sou a isabela!</b>
+  <br><br>
+  sou estudante de informática para internet no IFC, no brasil.
+  tenho interesse em tecnologia, desenvolvimento web e no lado
+  criativo da programação. gosto de aprender coisas novas,
+  experimentar ideias e transformá-las em projetos.
+</p>
 
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td bgcolor="#ff69b4" height="5"></td>
-<td bgcolor="#ff4444"></td>
-<td bgcolor="#ff9d35"></td>
-<td bgcolor="#ffe45c"></td>
-<td bgcolor="#75df8a"></td>
-<td bgcolor="#55c9ed"></td>
-<td bgcolor="#a88aff"></td>
-</tr>
-</table>
-
 <p align="center">
-<font color="#a9a0c9" size="2">
-made with curiosity, code & a little bit of nostalgia.
-</font>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,16&height=3&section=header" width="85%">
+  <br><br>
+  <sub>made with curiosity, code & a little bit of nostalgia.</sub>
 </p>
