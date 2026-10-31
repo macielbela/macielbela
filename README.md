@@ -17,26 +17,51 @@
 
 </div>
 
-## ✦ ABOUT ME
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=FF83C9&center=true&vCenter=true&width=500&lines=PROFILE.DAT" alt="PROFILE.DAT">
-</p>
 
-<p align="center">
-  <b>✧ STUDENT · BRAZIL · IFC ✧</b>
-</p>
 
----
 
-### ✦ A LITTLE INTRODUCTION
 
-i'm a brazilian student interested in technology, web development and the creative side of programming.
 
-i enjoy exploring new ideas, learning how things work and bringing creativity into digital projects.
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=FF83C9&center=true&vCenter=true&width=500&lines=ABOUT+ME+%E2%9C%A6" alt="about me">
+</h2>
 
----
-
-<p align="center">
-  <sub>✦ END OF FILE · 001 ✦</sub>
-</p>
+<table align="center" width="90%" cellpadding="12" cellspacing="5">
+  <tr>
+    <td colspan="2" bgcolor="#302044" align="center">
+      <font color="#ff83c9">✦ PROFILE.DAT ✦</font>
+      <br>
+      <font color="#c9a5ff">welcome to my little corner of the internet</font>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#432747" width="42%" valign="top">
+      <h3><font color="#ff91c8">ISABELA</font></h3>
+      <font color="#d9baff">
+        brazilian student<br>
+        studying at IFC<br>
+        internet systems development
+      </font>
+      <br><br>
+      <font color="#ff91c8">✧ currently learning ✧</font>
+      <br>
+      <font color="#ffffff">web development</font>
+    </td>
+    <td bgcolor="#263957" width="58%" valign="top">
+      <h3><font color="#83d9ff">A LITTLE ABOUT ME</font></h3>
+      <font color="#e3eaff">
+        i'm interested in technology, web development and the creative side of programming.
+        <br><br>
+        i like exploring new ideas, learning how things work and creating things along the way.
+      </font>
+      <br><br>
+      <font color="#83d9ff">✦ learning · exploring · creating ✦</font>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#382b59" align="center">
+      <font color="#d5b5ff">✧ ✦ ✧ &nbsp; END OF FILE &nbsp; ✧ ✦ ✧</font>
+    </td>
+  </tr>
+</table>
